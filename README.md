@@ -5,3 +5,4 @@ different bootstrap components to show different sections in the website and dif
 for responsiveness through mobile-first approach.
 Implemented product YouTube videos by using bootstrap embed and model components.
 ●  **Technologies used**: HTML, CSS, Bootstrap.
+For output open this link in browser :   vinayfoodpoint.ccbp.tech
